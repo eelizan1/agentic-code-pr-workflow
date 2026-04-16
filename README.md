@@ -17,7 +17,6 @@ CodeGen PR Agent is an end-to-end development automation system that leverages l
 
 This project demonstrates how agentic systems can orchestrate real-world software engineering workflows with minimal human intervention.
 
----
 
 ## Result 
 - Task Repo Agent will pull and evaluate: https://github.com/eelizan1/agent-task-uncompress
