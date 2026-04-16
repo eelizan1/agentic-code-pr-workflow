@@ -19,6 +19,12 @@ This project demonstrates how agentic systems can orchestrate real-world softwar
 
 ---
 
+## Result 
+- Task Repo Agent will pull and evaluate: https://github.com/eelizan1/agent-task-uncompress
+- Pull Request that Agent generated: https://github.com/eelizan1/agent-task-uncompress/pull/1
+
+
+
 ## How It Works
 
 The agent follows a structured pipeline:
