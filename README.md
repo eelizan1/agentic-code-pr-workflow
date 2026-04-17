@@ -100,6 +100,13 @@ ANTHROPIC_API_KEY=your_anthropic_key   # optional
 HF_TOKEN=your_huggingface_token        # optional
 ```
 
+### 4. Running the project 
+
+Run the command in root dir
+```
+python main.py
+```
+
 ---
 
 ## Usage
