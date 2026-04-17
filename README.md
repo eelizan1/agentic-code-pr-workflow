@@ -1,8 +1,8 @@
 # CodeGen PR Agent
 
-An agentic AI workflow that transforms task specifications into production-ready code and automatically creates pull requests.
+An agentic AI workflow that retrieves task specifications from a GitHub repo, produces production-ready code, and automatically commits, pushes and creates pull requests.
 
-A POC project that demonstrates a use case where an agent can access a task, perform task requirements, then create a PR for review/revisions by a human developer. 
+A POC project that demonstrates a use case where an agent can access a task, perform task requirements, then submit solitions to be reviewed by a human developer. Purpose is to have AI agents reduce manual overhead, allowing developers to focus on creative problem-solving and complex tasks
 
 Future iterations could be retreiving a task from JIRA or a ticketing board.
 
